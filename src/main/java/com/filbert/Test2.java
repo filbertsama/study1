@@ -5,5 +5,6 @@ public class Test2 {
         System.out.println("kaka");
         System.out.println("mama");
         System.out.println("wdc");
+        System.out.println("no");
     }
 }
